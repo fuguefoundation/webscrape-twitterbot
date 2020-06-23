@@ -1,0 +1,10 @@
+# Files
+bot/*.pyc
+bot/credentials.py
+bot/tweet_data.py
+bot/nohup.out
+notes.md
+package-lock.json
+
+# dependencies
+/node_modules
