@@ -1,5 +1,5 @@
 const axios = require('axios');
-const url = 'https://www.reneecbyer.com/galleries/';
+const url = 'https://example.com/';
 const cheerio = require('cheerio');
 
 async function scrape() {

@@ -1,9 +1,9 @@
 {
-  "name": "ff-poverty",
+  "name": "webscrape-twitterbot",
   "version": "1.0.0",
   "description": "Web scraping and Twitterbot",
   "keywords": [
-    "node"
+    "node", "python"
   ],
   "author": "Fugue Foundation",
   "license": "MIT",
