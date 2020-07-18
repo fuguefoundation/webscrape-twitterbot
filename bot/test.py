@@ -1,4 +1,4 @@
-with open("poverty.py") as fp:
+with open("tweet_data_LIFE.py") as fp:
     for i, line in enumerate(fp):
-        if "\xc2" in line:
+        if "\xe2" in line:
             print i, repr(line)

@@ -1,8 +1,9 @@
 # Files
 bot/*.pyc
-bot/credentials.py
-bot/tweet_data.py
 bot/nohup.out
+bot/credentials.py
+bot/data/*
+scrape/data/*
 notes.md
 package-lock.json
 

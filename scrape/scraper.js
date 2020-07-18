@@ -7,13 +7,12 @@ async function scrape() {
     const $ = await cheerio.load(html.data);
     let data = [];
   
-    $('.slide').each((i, elem) => {
+    $('.my-container-element').each((i, elem) => {
       if (i <= 79) {
         data.push({
-          image: $(elem).find('img').attr('data-src'),
-          id: $(elem).attr('data-slide-url'),
-          title: $(elem).find('.slide-meta p.title').text(),
-          desc: $(elem).find('.description p').first().text()
+          title: $(elem).find('h4').text(),
+          desc: $(elem).find('p').text(),
+          url: $(elem).find('p a').attr('href')
         })
       }
     });

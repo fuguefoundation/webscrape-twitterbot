@@ -1,7 +1,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/ffugue)
 ![GitHub](https://img.shields.io/github/license/fuguefoundation/webscrape-twitterbot)
 
-Use web scraping (`Javascript`) to generate properly formed data that can then be auto-tweeted using `Python`. See example tweets [here](https://twitter.com/ffugue). Content of pages to scrape and tweets to make will follow the charitable principles of [effective altruism](https://www.effectivealtruism.org/).
+This project aims to use web scraping (`Javascript`) to generate properly formed data that can then be auto-tweeted using `Python` or adding into an [API](https://github.com/fuguefoundation/ff-api). Content of pages to scrape and the tweets themselves will follow the charitable principles of [effective altruism](https://www.effectivealtruism.org/).
 
 ## Resources
 
@@ -10,19 +10,6 @@ Use web scraping (`Javascript`) to generate properly formed data that can then b
 | Cheerio |  Python | [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-create-a-twitterbot-with-python-3-and-the-tweepy-library) |
 | Axios |    Tweepy   |   [Twitter API](https://developer.twitter.com/en) |
 | Puppeteer |  |    |
-
-Web scraping
-* Cheerio
-* Axios
-* Puppeteer
-
-Twitter bot
-* Python
-* Tweepy
-
-Docs
-* [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-create-a-twitterbot-with-python-3-and-the-tweepy-library)
-* [Twitter API](https://developer.twitter.com/en)
 
 ## Social Media Campaigns
 
@@ -34,6 +21,8 @@ Pulitzer-Prize winning documentary photojournalist [Renée C. Byer](https://www.
 * #GlobalPoverty
 
 ### The Life You Can Save
+
+Top charities as identified by [The Life You Can Save](https://www.thelifeyoucansave.org/best-charities/), a nonprofit organization aiming to create a world where everyone has an opportunity to build a better life and where there’s no suffering or death due to extreme poverty.
 
 * [Example tweet](https://twitter.com/FFugue/status/1284104167015854086)
 * #EffectiveAltruism
