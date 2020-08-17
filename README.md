@@ -27,3 +27,18 @@ Top charities as identified by [The Life You Can Save](https://www.thelifeyoucan
 * [Example tweet](https://twitter.com/FFugue/status/1284104167015854086)
 * #EffectiveAltruism
 
+### 80,000 Hours
+
+[Problem Profiles](https://80000hours.org/problem-profiles/) - If you want to maximise your chance of having a big positive impact with your career, we think it’s usually best to work on a global problem that’s large in scale, solvable, and neglected. These are not always the biggest problems in the world — rather they are the issues that receive little attention compared to how important they are and how much can be done about them.
+
+* [Example tweet](https://twitter.com/FFugue/status/1292813638747602946)
+
+### Giving What We Can
+
+[Causes](https://www.givingwhatwecan.org/causes/) - One of the biggest factors determining whether a charity will be effective or not is the problem that it's trying to solve. We investigate promising cause areas to find the best opportunities to do good.
+
+* [Example tweet]()
+
+### Coming Soon
+
+* [Animal Charity Evaluators](https://animalcharityevaluators.org/charity-reviews/all-charity-reviews/) top and standout charities
