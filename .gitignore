@@ -1,9 +1,13 @@
 # Files
-bot/*.pyc
-bot/nohup.out
-bot/credentials.py
-bot/data/*
-scrape/data/*
+python/*.pyc
+python/nohup.out
+python/credentials.py
+python/data/*
+js/data/*
+js/assets/*
+js/project-1/*
+js/project-2/*
+js/project-3/*
 notes.md
 package-lock.json
 
